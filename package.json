@@ -1,0 +1,27 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Repositório teste automatizado do cypress",
+  "main": "",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  }, 
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelapaulam/cypress.git"
+  },
+  "keywords": [
+    "Testing",
+    "Cypress.io",
+    "Talking About Testing",
+    "Cypress Básico",
+    "Escola TAT"
+  ],
+  "author": "",
+  "license": "",
+  "homepage": "https://github.com/angelapaulam/cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
