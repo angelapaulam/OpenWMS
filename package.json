@@ -1,0 +1,20 @@
+{
+  "name": "OpenWMS",
+  "version": "1.0.0",
+  "description": "Repositório teste automatizado do OpenWMS",
+  "main": "",
+  "scripts": {
+    "cy:open": "OpenWMS open",
+    "test": "OpenWMS run"
+  }, 
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelapaulam/OpenWMS.git"
+  },
+  "author": "",
+  "license": "",
+  "homepage": "https://github.com/angelapaulam/OpenWMS#readme",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
